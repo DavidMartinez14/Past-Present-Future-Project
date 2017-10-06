@@ -4,6 +4,7 @@
 
 <head>
 <title>David's Past,Present,and Future</title>
+<link href="https://fonts.googleapis.com/css?family=Rye" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="main.css">
 </head>
