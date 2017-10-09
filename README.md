@@ -16,8 +16,7 @@
 
 <h2>My past</h2>
 
-<p>I was born on Dominican Republic,Santo Domingo, i was born at 12:00 am, and after that well i don't remember any of what happened on my first and second years, i remember a little bit about my third birthday, Ever since i was born i lived on one house-for 11 years-, which is placed on the capital and in a street called the Quiskeya, i lived close to the grocery store, my uncles house, and the church. So after living there for 11 years we moved to another house, lived in that house for at least 2 or 1/2 years and then moved to the united states, After many months we finally got a house for us, and that's pretty much it, That's my past.</p><p>Look at this website, it has resorts hotels,most of the resorts are located close to the beach, same with the hotels, but i prefer resorts, going to a resort in dominican republic is like going to heaven, but expensive indeed but trust me it's definetely worth it, i had a very good time when i went to one of those.</p>
-<a href="https://www.tripadvisor.com/Hotels-g147293-Punta_Cana_La_Altagracia_Province_Dominican_Republic-Hotels.html">Resorts in Dominican republic</a>
+<p>I was born on Dominican Republic,Santo Domingo.I was born at 12:00 am.Ever since I was born I lived on the same house for 11 years, The house is placed on the capital of Santo Domingo  in a street called the Quiskeya, i lived there for 11 years, just when i was 11 we moved to another house and lived in that house for at least 2 or 1/2 years and then we moved to the united states. After many months we finally got a house for us, and that's pretty much it that's my past.Look at this website, it has resorts and hotels that you can rent if you plan to visit one of the best contries on the caribean.<a href="https://www.tripadvisor.com/Hotels-g147293-Punta_Cana_La_Altagracia_Province_Dominican_Republic-Hotels.html">Resorts in Dominican republic</a></p>
 
 <img class="center" src="img/Santo-Domingo.jpg" alt="Santo Domingo">
 
@@ -35,11 +34,11 @@
 
 <img class="left" src="img/liberty-bridge-in-downtown-greenville-sc-at-sunrise-willie-harper.jpg" alt="Greenville Downtown">
 
-<p>So i'll start with my family, My mom and dad are still alive, same with my brother and siter, My dad is a pastor, and my mom doesn't really work, my brother helps my dad on the church stuff but he doesn't gain money from it, my sister is going to college next year.</p>
+<p>My family, My mom, same with my brother and siter, My dad is a pastor, and my mom doesn't really work, my brother helps my dad on the church stuff but he doesn't gain money from it, At the moment i'm the only one at school, my sister graduated and brother is going to college probably next year, i can't say i'm alone because to be honest i think i'm better off without them.</p>
 
 <img class="left" src="img/jlmann.jpg" alt="Jl mann highschool">
 
-<p>I'm here on jl mann, doing the work i'm supposed to do, and drawing is one of my favorite things to do, My interest is to progress as a student and graduate, but i don't really have a career on mind, closest thing to come is to be a doctor, but that's not 100% confirmed, i just hope i can find something i can do in the future, but it's too early too think about that, that might distract me.And here is an special hyperlink just for you!check it out if you're interested (which i doubt). <a href="https://www.lifeishard.ro/">DO NOT TOUCH</a>.</p>
+<p>I'm currently on jl mann highschool, i'm a freshman and i'm not the sharpest knife around here, if you think i'm the smartest on the class then you're totally wrong,don't get me wrong i'm not dumb but i'm also not a genius.MyAnd here is an special hyperlink just for you!check it out if you're interested (which i doubt). <a href="https://www.lifeishard.ro/">DO NOT TOUCH</a>.</p>
 
 <h2> My Future!</h2>
 
