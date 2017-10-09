@@ -42,14 +42,14 @@
 
 <h2> My Future!</h2>
 
-<p>I have plans to Travel back to my homeland which is Dominican Republic, of course, i can't tell when will that happen because i'll be at collegue in the future, but who knows, anything can happen on a short period of time, but anyway i don't plan on having a family while i'm on college, i plan to have a family after college, one thing is for sure, i'll be very busy if i become a doctor, but the payment in here is nice, I'll probably work while i'm on college, .Not sure if i'll be in either clemson or furman, for now just look at this <a href="http://www.clemson.edu/">Clemson university.</a></p>
+<p>I have plans to Travel back to my homeland which is Dominican Republic, of course, i can't tell when will that happen because i'll be at collegue in the future, but who knows, anything can happen on a short period of time, but anyway i don't plan on having a family while i'm on college, i plan to have a family after college, one thing is for sure, i'll be very busy if i become a doctor, but the payment in here is nice, I'll probably work in chick fil' a while i'm at college, but i could just start working next summer.Not sure if i'll be in either clemson or furman, for now just look at this <a href="http://www.clemson.edu/">Clemson university.</a></p>
 
 <h3>Things that i want to do in the future</h3>
 
 <ul>
   <li>I would like to order dominos online, that'll be satisfying <a href="https://www.dominos.com/en/">Dominos Pizza</a>.</li>
-  <li>Have 3 kids.</li>
-  <li>Graduate.</li>
+  <li>Have a family of course.</li>
+  <li>Graduate from highschool.</li>
   <li>Make myself and my parents proud.</li>
   <li>Visit Dominican Republic.</li>
 </ul>
