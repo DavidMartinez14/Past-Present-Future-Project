@@ -34,15 +34,15 @@
 
 <img class="left" src="img/liberty-bridge-in-downtown-greenville-sc-at-sunrise-willie-harper.jpg" alt="Greenville Downtown">
 
-<p>My family, My mom, same with my brother and siter, My dad is a pastor, and my mom doesn't really work, my brother helps my dad on the church stuff but he doesn't gain money from it, At the moment i'm the only one at school, my sister graduated and brother is going to college probably next year, i can't say i'm alone because to be honest i think i'm better off without them.</p>
+<p>My dad is a pastor, and my mom doesn't really work, my brother helps my dad on church stuff but he doesn't gain money from it, At the moment i'm the only one at school, my sister graduated from highschool, and brother is going to college probably next year, i can't say i'm alone because to be honest i think i'm better off without them.</p>
 
 <img class="left" src="img/jlmann.jpg" alt="Jl mann highschool">
 
-<p>I'm currently on jl mann highschool, i'm a freshman and i'm not the sharpest knife around here, if you think i'm the smartest on the class then you're totally wrong,don't get me wrong i'm not dumb but i'm also not a genius.MyAnd here is an special hyperlink just for you!check it out if you're interested (which i doubt). <a href="https://www.lifeishard.ro/">DO NOT TOUCH</a>.</p>
+<p>I'm currently on jl mann highschool, i'm a freshman and i'm not the sharpest knife around here, if you think i'm the smartest on the class then you're totally wrong,don't get me wrong i'm not dumb but i'm also not a genius.This is the website of jl mann highschool <a href="https://www.greenville.k12.sc.us/jlmann/"><del>Don't</del> push the red button</a>.</p>
 
 <h2> My Future!</h2>
 
-<p>I have plans to Travel back to my homeland which is Dominican Republic, of course, i can't tell when will that happen because i'll probably be at collegue, but who knows, anything can happen on a short period of time same thing for a long period of time, but anyway i don't plan on having a family while i'm on college, i plan to have a family after college, one thing is for sure, i'll be busy if i become a doctor, but the payment in here is nice, I'll probably work while i'm on college, after all i'll be an adult, so i and my parents would expect a lot more of things from me than they do now.Not sure if i'll be in either clemson or furman, for now just look at this <a href="http://www.clemson.edu/">Clemson university.</a></p>
+<p>I have plans to Travel back to my homeland which is Dominican Republic, of course, i can't tell when will that happen because i'll be at collegue in the future, but who knows, anything can happen on a short period of time, but anyway i don't plan on having a family while i'm on college, i plan to have a family after college, one thing is for sure, i'll be very busy if i become a doctor, but the payment in here is nice, I'll probably work while i'm on college, .Not sure if i'll be in either clemson or furman, for now just look at this <a href="http://www.clemson.edu/">Clemson university.</a></p>
 
 <h3>Things that i want to do in the future</h3>
 
