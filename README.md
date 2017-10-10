@@ -47,7 +47,7 @@
 <h3>Things that i want to do in the future</h3>
 
 <ul>
-  <li>I would like to order dominos online, that'll be satisfying <a href="https://www.dominos.com/en/">Dominos Pizza</a>.</li>
+  <li>I would like to order Dominos pizza  online, that'll be satisfying <a href="https://www.dominos.com/en/">Dominos Pizza</a>.</li>
   <li>Have a family of course.</li>
   <li>Graduate from highschool.</li>
   <li>Make myself and my parents proud.</li>
