@@ -36,11 +36,11 @@
 
 <p>My dad is a pastor, and my mom doesn't really work, my brother helps my dad on church stuff but he doesn't gain money from it, At the moment i'm the only one at school, my sister graduated from highschool, and brother is going to college probably next year, i can't say i'm alone because to be honest i think i'm better off without them.</p>
 
-<img class="left" src="img/jlmann.jpg" alt="Jl mann highschool">
+<img class="right" src="img/jlmann.jpg" alt="Jl mann highschool">
 
-<p>I'm currently on jl mann highschool.I'm a freshman and i'm not the sharpest knife around here, if you think i'm the smartest on the class then you're totally wrong,don't get me wrong i'm not dumb but i'm also not a genius.This is the website of jl mann highschool <a href="https://www.greenville.k12.sc.us/jlmann/"><del>Don't</del> push the red button</a>.</p>
+<p>I'm currently on jl mann highschool.I'm a freshman, i like drawing on my free time and i do my work.This is the website of jl mann highschool <a href="https://www.greenville.k12.sc.us/jlmann/"><del>Don't</del> push the red button</a>.</p>
 
-<h2> My Future!</h2>
+  <h2> My Future!</h2>
 
 <p>I have plans to Travel back to my homeland which is Dominican Republic, of course, I can't tell when will that happen because I'll be at collegue in the future, but who knows, anything can happen on a short period of time, but anyway I don't plan on having a family while I'm on college, I plan to have a family after college, one thing is for sure, I'll be very busy if i become a doctor, but the payment in this state is nice, I'll probably work in chick fil' a while i'm at college, but i could just start working next summer.Not sure if i'll be in either clemson or furman, for now just look at this <a href="http://www.clemson.edu/">Clemson university.</a></p>
 
